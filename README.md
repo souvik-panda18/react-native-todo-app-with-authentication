@@ -89,7 +89,7 @@ npx expo start
 Scan the QR code in Expo Go app or run on an emulator.
 
 🎬 Demo Video
-📹 Watch the walkthrough here
+📹 Watch the walkthrough here: https://drive.google.com/file/d/18GYsRcYcElZREaS_bih0hq9GvfaXJrh4/view?usp=drive_link
 (Demonstrates login → task creation → complete/delete → profile update → logout)
 
 ✅ Firebase Rules (for production)
