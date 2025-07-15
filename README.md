@@ -128,3 +128,12 @@ git add README.md
 git commit -m "Add project README"
 git push
 ⚠️ Note: This project includes Firebase Web API key, which is safe to expose as per Firebase security guidelines. All access is protected using strict Firestore rules to prevent unauthorized access.
+### ⚠️ Known Limitation
+
+Due to Firebase Storage requiring a paid Blaze plan, the profile image upload feature is not implemented.
+
+However:
+- The app includes profile details (name, email)
+- A default avatar is displayed in the profile tab
+- The image picker integration and Firebase Storage code is ready for upgrade, and commented for future use
+
